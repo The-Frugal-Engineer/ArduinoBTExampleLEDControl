@@ -61,9 +61,7 @@ public class ConfigureLed extends AppCompatActivity {
 
                 colorDemo.setBackgroundColor(Color.rgb(redNumber, greenNumber, blueNumber));
 
-
             }
-
             @Override
             public void onStartTrackingTouch(SeekBar seekBar) {
                 // called when the user first touches the SeekBar
